@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Ambedkar Jayanti",
+    "start": "2025-04-14",
+    "extendedProps": {
+      "photos": [
+        "https://drive.google.com/uc?id=YOUR_IMAGE_ID_1",
+        "https://drive.google.com/uc?id=YOUR_IMAGE_ID_2"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/YOUR_VIDEO_ID_1"
+      ]
+    }
+  },
+  {
+    "title": "Yoga Day",
+    "start": "2025-06-21",
+    "extendedProps": {
+      "photos": [
+        "https://drive.google.com/uc?id=YOUR_IMAGE_ID_3"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/YOUR_VIDEO_ID_2"
+      ]
+    }
+  }
+]
